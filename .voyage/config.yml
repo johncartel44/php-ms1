@@ -1,5 +1,5 @@
 services:
-  app:
+  php:
     context: ./
     primary: true
     exposePort: 80
